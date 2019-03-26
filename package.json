@@ -4,7 +4,7 @@
   "description": "Webex Teams bots built with Botkit",
   "main": "helloworld.js",
   "scripts": {
-    "start": "node helloworld.js"
+    "start": "node template/bot.js"
   },
   "keywords": [
     "webex",
